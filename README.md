@@ -1,4 +1,4 @@
-[![Practice CI with GitHub Actions using Ant and JUnit | © 2021 by giao.lang](https://github.com/doit-now/cs1-math-util/actions/workflows/clean-and-build.yml/badge.svg)](https://github.com/doit-now/cs1-math-util/actions/workflows/clean-and-build.yml)
+[![Practice CI with GitHub Actions using Ant and JUnit | © 2021 by me](https://github.com/doit-now/cs1-math-util/actions/workflows/clean-and-build.yml/badge.svg)](https://github.com/doit-now/cs1-math-util/actions/workflows/clean-and-build.yml)
 
 ## Welcome to Math Utility Repository. This repo offers various math methods used as a helper for your project.
 <<<<<<< HEAD
