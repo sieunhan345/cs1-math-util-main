@@ -1,7 +1,22 @@
 [![Practice CI with GitHub Actions using Ant and JUnit | © 2021 by giao.lang](https://github.com/doit-now/cs1-math-util/actions/workflows/clean-and-build.yml/badge.svg)](https://github.com/doit-now/cs1-math-util/actions/workflows/clean-and-build.yml)
 
-## Math Util Project offers multiple math methods as a helper for math calculation for your project.
-### You will find in this repo:
+## Welcome to Math Utility Repository. This repo offers various math methods used as a helper for your project.
+<<<<<<< HEAD
+### You will find in this repo the following stuff:_*
 
-### Connect me via
-* fb/giao.lang.bis
+=======
+### You will find in this repo the following stuff:
+>>>>>>> b78f84f0fe1c4032a92ef6a57f5269bbf65a7240
+
+* .gitignore file itself to demonstrate how to ask the Git tool to upload a file or not
+* README.md file itself to show the Home page of this repo
+* All of math methods located in the src\ folder to support for the math calculation in your project
+* (TBA...)
+
+#### Connect me via 
+[My Facebook]https://www.facebook.com/tampham3112/  
+[My email](mailto: smallmouse3121@gmail.com)
+
+© 2021 tam dep trai
+=======
+
